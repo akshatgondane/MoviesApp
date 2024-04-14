@@ -16,7 +16,7 @@
 - Individual movie details screen.
 
   ## Screenshots:
-  ![SS1 final](https://github.com/akshatgondane/MoviesApp/assets/59738771/169fbbe0-f70d-4edd-a65d-e3405a0068fd) | ![SS2 final](https://github.com/akshatgondane/MoviesApp/assets/59738771/aa3911d3-217d-4865-9181-964b66a9cde5)
+ | ![SS1 final](https://github.com/akshatgondane/MoviesApp/assets/59738771/169fbbe0-f70d-4edd-a65d-e3405a0068fd) | ![SS2 final](https://github.com/akshatgondane/MoviesApp/assets/59738771/aa3911d3-217d-4865-9181-964b66a9cde5)
 
 
 
